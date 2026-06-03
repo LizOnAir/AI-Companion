@@ -1,6 +1,7 @@
 # AI companion
-
 This is a movable AI robot with simple DC motors and powered by ESP32-S3 Sense with a round touch display to display emotions.
+
+<img width="260" height="372" alt="Screenshot 2026-06-03 at 8 30 08 PM" src="https://github.com/user-attachments/assets/10688ce1-3889-4c1d-8692-d50df5892054" />
 
 ## Features:
 - power with battery
@@ -14,7 +15,8 @@ This is a movable AI robot with simple DC motors and powered by ESP32-S3 Sense w
 <img width="325" height="376" alt="Screenshot 2026-06-03 at 1 48 02 PM" src="https://github.com/user-attachments/assets/54ca4ef5-f84f-4f8a-90e3-f202cd5363a1" />
 <img width="325" height="376" alt="Screenshot 2026-06-03 at 1 47 23 PM" src="https://github.com/user-attachments/assets/9dc67446-b11b-49a4-8e2b-a860c7c33592" />
 
-Gear:
+### Gear:
+
 <img width="325" height="349" alt="Screenshot 2026-06-03 at 1 48 35 PM" src="https://github.com/user-attachments/assets/68de14c9-4803-4c25-a530-2382658990a7" />
 <img width="325" height="349" alt="Screenshot 2026-06-03 at 1 48 39 PM" src="https://github.com/user-attachments/assets/1aa9e1f1-fa82-4d59-86e7-d8267d8b340f" />
 
@@ -26,6 +28,7 @@ Connect the XIAO pins onto the display headers.
 Connect the speaker to the PH connector on the display.
 
 For the motor and battery:
+
 <img width="325" height="349" alt="Screenshot 2026-06-03 at 2 22 24 PM" src="https://github.com/user-attachments/assets/b43ad3d8-648c-4723-92b5-ff33637ad377" />
 
 ## Firmware
