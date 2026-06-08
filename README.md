@@ -1,6 +1,7 @@
 # AI companion
 This is a movable AI robot with simple DC motors and powered by ESP32-S3 Sense with a round touch display to display emotions.
 
+The objective of building this AI companion is to asist me with daily task, cheer me up when bored and show Soup's cuteness that's all. 
 <img width="260" height="372" alt="Screenshot 2026-06-03 at 8 30 08 PM" src="https://github.com/user-attachments/assets/10688ce1-3889-4c1d-8692-d50df5892054" />
 
 ## Features:
